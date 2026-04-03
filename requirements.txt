@@ -1,0 +1,4 @@
+modal
+huggingface_hub>=0.30.0
+hf-transfer>=0.1.9
+openai>=1.30.0
